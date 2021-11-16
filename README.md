@@ -1,6 +1,6 @@
 # shortenurl library
 
-Made by s4300\
+Made by s4300
 
 [Github](https://github.com/s4300/shortenurl-python)\
 [PyPI](https://pypi.org/project/shortenurl/)
